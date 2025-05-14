@@ -1,0 +1,7 @@
+openai
+rich
+dotenv
+langchain
+langchain_community
+langchain_core
+langchain_openai
