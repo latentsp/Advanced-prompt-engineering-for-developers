@@ -1,0 +1,1 @@
+For anything the user asks think of different ways to perform the task.Then create a pros and cons list for each way.
